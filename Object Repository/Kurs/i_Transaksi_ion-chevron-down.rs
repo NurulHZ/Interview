@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Transaksi_ion-chevron-down</name>
+   <tag></tag>
+   <elementGuidId>9963df16-378d-4a63-873d-45b956304994</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[7]/div/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9934548a-eac6-4619-8c07-2f713d7f6d66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ion-chevron-down</value>
+      <webElementGuid>c8713e12-aa3d-4161-8227-2e71283fd36e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;btn-wrapper&quot;]/div[@class=&quot;btn-content&quot;]/section[@class=&quot;section-area mb-40&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-7&quot;]/div[@class=&quot;converter-box converter-box__wrapper&quot;]/div[@class=&quot;converter-box__content&quot;]/form[@class=&quot;form-converter&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-3&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;select-wrapper select-kurs1&quot;]/i[@class=&quot;ion-chevron-down&quot;]</value>
+      <webElementGuid>1d0ccee4-9e22-46b4-81c8-3cf4334c1522</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/i</value>
+      <webElementGuid>b7fa8a3c-8f9d-42dc-96fd-e13fb65edd6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

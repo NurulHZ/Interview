@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Transaksi_btn btn-secondary</name>
+   <tag></tag>
+   <elementGuidId>6a9297e9-cfa7-4f9d-a575-bec49805e64d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-secondary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='hitung']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>6b51d8d9-0e0a-46a8-bbaf-3b55efb52045</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>b749f9f2-28d7-44ac-b12a-5c7330fa4d76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>hitung</value>
+      <webElementGuid>b8ace575-226f-4b96-b1eb-c490289fac9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-secondary</value>
+      <webElementGuid>ab227061-8312-40f8-9dd0-21cfe57e8dbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;btn-wrapper&quot;]/div[@class=&quot;btn-content&quot;]/section[@class=&quot;section-area mb-40&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-7&quot;]/div[@class=&quot;converter-box converter-box__wrapper&quot;]/div[@class=&quot;converter-box__content&quot;]/form[@class=&quot;form-converter&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;btn btn-secondary&quot;]</value>
+      <webElementGuid>d20c7cbc-6eb7-45a2-96c6-405ef91d22f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='hitung']</value>
+      <webElementGuid>6bc80fcc-be80-480c-a926-776fab3fdf08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/input</value>
+      <webElementGuid>d67327e3-10fd-491e-8dcf-e8f4bd37e62b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>da993765-ecbe-4957-82e9-64f4fdc35c6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
